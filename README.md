@@ -2,7 +2,7 @@
 ### Multimedia Technology Final Project 2023-2024
 #### Graded 7/10
 
-## Team's Members
+## Creator
 
  
  
