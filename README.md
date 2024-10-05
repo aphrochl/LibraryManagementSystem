@@ -1,12 +1,12 @@
 # Library Management System
 ### Multimedia Technology Final Project 2023-2024
-#### Graded 85/100
+#### Graded 7/10
 
 ## Team's Members
 
  
  
- **Your Name [youremail@mail.com](https://github.com/your-github-profile)**  
+ **Afroditi Marianthi Chlapani [el20889@mail.ntua.gr](https://github.com/ntua-el20889)**   
 
 ---
 
