@@ -40,8 +40,6 @@ To run this project, you will need:
 
 - Java Development Kit (JDK) 8 or higher: [Install JDK](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html)
 - IDE such as IntelliJ IDEA, Eclipse, or any Java-supporting IDE.
-  
-Ensure you have JavaFX installed if you plan to extend or modify the GUI portion.
 
 ## How to Compile and Run
 
