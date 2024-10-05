@@ -44,6 +44,7 @@ Ensure you have JavaFX installed if you plan to extend or modify the GUI portion
 From the project directory, run the following commands to compile the project:
 ```sh
 javac -d bin src/library/*.java src/library/data/*.java src/library/management/*.java src/library/gui/*.java src/test/*.java src/test/util/*.java
+```
 
 
 
