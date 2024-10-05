@@ -51,7 +51,10 @@ Once the program is running, use the following login details to explore the syst
 - The GUI (Graphical User Interface) has not been fully implemented. The system is currently controlled entirely from the terminal.
 - No validation for ISBN format or email validation during user registration.
 
-It also includes 
+### Usage
+- It also includes instructions on how to compile and run the code, which you can find in the [main README file]() in the root of the repository for instructions.
+
+
 
 
 
