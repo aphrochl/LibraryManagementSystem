@@ -31,7 +31,6 @@ Key features:
 - [Application Features](#Application-Features)
 - [Project Assumptions](#Project-Assumptions)
 - [Known Issues](#Known-Issues)
-- [References](#References)
 
 
 ## Prerequisites
