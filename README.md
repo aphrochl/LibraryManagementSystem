@@ -28,6 +28,11 @@ Key features:
 - [Prerequisites](#Prerequisites)
 - [How to Compile and Run](#How-to-Compile-and-Run)
 - [Usage Instructions](#Usage-Instructions)
+- [Application Features](#Application-Features)
+- [Project Assumptions](#Project-Assumptions)
+- [Known Issues](#Known-Issues)
+- [References](#References)
+
 
 ## Prerequisites
 
@@ -45,38 +50,11 @@ From the project directory, run the following commands to compile the project:
 ```sh
 javac -d bin src/library/*.java src/library/data/*.java src/library/management/*.java src/library/gui/*.java src/test/*.java src/test/util/*.java
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Running the Application
+To run the project, use the following command:
+```sh
+java -cp bin library.LibrarySystem
+```
 The program will start with pre-populated data (administrators, users, books) from `test/PopulateLibrarySystem.java`.
 
 ## Usage Instructions
