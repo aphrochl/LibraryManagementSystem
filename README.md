@@ -28,10 +28,6 @@ Key features:
 - [Prerequisites](#Prerequisites)
 - [How to Compile and Run](#How-to-Compile-and-Run)
 - [Usage Instructions](#Usage-Instructions)
-- [Application Features](#Application-Features)
-- [Project Assumptions](#Project-Assumptions)
-- [Known Issues](#Known-Issues)
-- [References](#References)
 
 ## Prerequisites
 
