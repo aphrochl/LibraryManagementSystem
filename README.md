@@ -1,5 +1,5 @@
 # Library Management System
-### Multimedia Technology Final Project 2023-2024
+### Multimedia Technology ECE NTUA 2023-2024
 #### Graded 7/10
 
 ## Creator
