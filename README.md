@@ -44,7 +44,7 @@ To run this project, you will need:
 ## How to Compile and Run
 
 ### Compilation
-From the project directory, run the following commands to compile the project:
+From the project directory, open a terminal and run the following commands to compile the project:
 ```sh
 javac -d bin src/library/*.java src/library/data/*.java src/library/management/*.java src/library/gui/*.java src/test/*.java src/test/util/*.java
 ```
