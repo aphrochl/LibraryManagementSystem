@@ -52,7 +52,7 @@ Once the program is running, use the following login details to explore the syst
 - No validation for ISBN format or email validation during user registration.
 
 ### Usage
-- It also includes instructions on how to compile and run the code, which you can find in the [main README file]() in the root of the repository for instructions.
+- It also includes instructions on how to compile and run the code, which you can find in the [main README file](https://github.com/ntua-el20889/LibraryManagementSystem/tree/main) in the root of the repository for instructions.
 
 
 
