@@ -6,7 +6,7 @@
 
  
  
- **Afroditi Marianthi Chlapani [el20889@mail.ntua.gr](https://github.com/ntua-el20889)**   
+ **Afroditi Marianthi Chlapani [github](https://github.com/ntua-el20889)**   
 
 ---
 
