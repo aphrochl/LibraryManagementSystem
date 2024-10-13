@@ -1,6 +1,5 @@
 # Library Management System
 ### Multimedia Technology ECE NTUA 2023-2024
-#### Graded 7/10
 
 ## Creator
 
